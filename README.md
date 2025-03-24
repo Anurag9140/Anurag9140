@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://gist.githubusercontent.com/Anurag9140/raw/your-banner.png)
+banner.png
 
 <!--
 **Anurag9140/Anurag9140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
