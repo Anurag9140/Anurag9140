@@ -13,9 +13,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuragverma&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragverma&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverma&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anurag9140&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag9140&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag9140&layout=compact&theme=dark" />
 </p>
 
 ---
