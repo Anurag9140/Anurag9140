@@ -16,6 +16,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anurag9140&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag9140&theme=dark" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag9140&layout=compact&theme=dark" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Anurag9140&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </p>
 
 ---
