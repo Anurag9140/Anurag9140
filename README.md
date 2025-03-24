@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://github.com/Anurag9140/Anurag9140/blob/main/freepik__the-style-is-candid-image-photography-with-natural__98379.png
+![Banner](https://gist.githubusercontent.com/Anurag9140/raw/your-banner.png)
+
 <!--
 **Anurag9140/Anurag9140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
