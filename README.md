@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Web Developer</h3>
 
-![Banner](https://github.com/anuragverma/anuragverma/blob/main/banner.png)
+![Banner](https://github.com/Anurag9140/Anurag9140/blob/main/banner.png)
 
 ## 🔥 About Me
 - 🎓 Pursuing **BSc in Computer Science and Data Analytics** at **IIT Patna**.  
