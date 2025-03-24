@@ -19,8 +19,6 @@
 </p>
 
 ---
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag9140&layout=compact&theme=dark)
 
 ## 🛠️ Languages & Tools
 <p align="left">
