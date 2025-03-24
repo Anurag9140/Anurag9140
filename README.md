@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Banner](https://github.com/Anurag9140/Anurag9140/blob/main/banner.png)
 
 <!--
 **Anurag9140/Anurag9140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
