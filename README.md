@@ -5,7 +5,7 @@
 
 
 ## 🔥 About Me
-- 🎓 Pursuing **BSc in Computer Science and Data Analytics** at **IIT Patna**.  
+- 🎓 Pursuing **BS in Computer Science and Data Analytics** at **IIT Patna**.  
 - 🤖 Passionate about **Data Science, Machine Learning, and Web Development**.  
 - 📸 Love attending events and capturing amazing pictures.  
 
