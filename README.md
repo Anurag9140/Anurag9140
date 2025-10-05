@@ -1,4 +1,4 @@
-![Banner](https://github.com/Anurag9140/Anurag9140/blob/main/Image_gevm9vgevm9vgevm.png)
+![Banner](https://github.com/Anurag9140/Anurag9140/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Web Developer</h3>
 
