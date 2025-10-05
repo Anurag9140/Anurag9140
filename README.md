@@ -1,4 +1,4 @@
-![Banner](https://github.com/Anurag9140/Anurag9140/blob/main/BANNER.png)
+![Banner](https://github.com/Anurag9140/Anurag9140/blob/main/Black%20Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Web Developer</h3>
 
